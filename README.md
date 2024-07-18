@@ -51,8 +51,7 @@ The player win when all battleships are sink.
 
 ### Bugs
 - __Solved bugs__
-- 
--I comment the code on line 31-37 because random point on game area can be the same for both
+- I comment the code on line 31-37 because random point on game area can be the same for both
 players because is random for computer.
 
 - __Remain bugs__
@@ -60,3 +59,17 @@ players because is random for computer.
 
 - __Validator testing__
 - PEP8 no errors were returned from PEP8online.com
+
+## Deployment
+### This project was deployed using Code Institute's mock terminal for Heroku.
+
+- __Remain bugs__
+- Fork or clone this repository
+- Create a new Heroku app
+- Set the buildbacks to Python and NodeJS in that order
+- Link the Heroku app to the repository
+- Click on DEPLOY
+
+### Credits
+- Code Institute for the deployment terminal
+- Wikipedia for the details of the Battleships game
